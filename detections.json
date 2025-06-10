@@ -1,0 +1,13 @@
+[
+    {
+        "class": "dog",
+        "confidence": 0.30765318870544434,
+        "description": "This is a dog. A domesticated animal known for loyalty and companionship.",
+        "bbox": {
+            "x1": 42,
+            "y1": 30,
+            "x2": 604,
+            "y2": 574
+        }
+    }
+]
