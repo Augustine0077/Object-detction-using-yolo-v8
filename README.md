@@ -36,3 +36,48 @@ You can install the required libraries using:
 
 ```bash
 pip install -r requirements.txt
+
+ultralytics
+opencv-python
+
+🚀 How to Use
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/yolov8-object-detection.git
+cd yolov8-object-detection
+Run the script:
+
+bash
+Copy
+Edit
+python yolov8_object_detection.py
+Check:
+
+output_detected.jpg to see detected objects
+
+detections.json to read about each object
+
+💡 Real-Life Use Case
+This project is great for:
+
+Learning how object detection works
+
+Building visual AI apps
+
+Detecting and describing what's in any photo using real-world terms
+
+🧠 Model Used
+YOLOv8 (You Only Look Once, version 8) is a powerful object detection model trained on 80+ object classes like person, car, dog, laptop, etc.
+
+📝 License
+This project is open for educational use. You're welcome to modify and use it for learning or demonstrations.
+
+yaml
+Copy
+Edit
+
+---
+
